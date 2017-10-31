@@ -22,7 +22,7 @@ function reverseWord(word) {
 
 function celciusToFahrenheit(celcius) {
   // return (5/9) * (celcius-32);
-  return celcius * 1.8 + 32
+  return (celcius * 1.8) + 32
 }
 
 
